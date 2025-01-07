@@ -21,7 +21,8 @@
 title: Rachel Chia
 # email: suerhn.rachel@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A collection of all the things that inspire me - clean code, intriguing projects, and thoughts on innovating, learning, and being. 
+  Clean code, fun projects. 
+  Thoughts on innovating, learning, and being. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://suerhn.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
